@@ -752,7 +752,7 @@ canvas {
 
 ## <a name="more">🚀 @ DEVELOPED BY - RASMI RANJAN PATNAIK </a>
 
-<h1>hosted linl- </h1>
+<h1>hosted link-<link> https://appleiphone15new.netlify.app/ </link> </h1>
 
 
 
